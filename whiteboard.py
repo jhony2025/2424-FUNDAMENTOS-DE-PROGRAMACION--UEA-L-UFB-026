@@ -1,1 +1,2 @@
 # Whiteboard
+print("Hello World")
